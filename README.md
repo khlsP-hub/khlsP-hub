@@ -33,12 +33,16 @@
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=khlsP-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=khlsP-hub&theme=tokyonight&hide_border=true&background=0D1117"/>
+<a href="https://github.com/khlsP-hub">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=khlsP-hub&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khlsP-hub&layout=compact&theme=tokyonight&hide_border=true"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=khlsP-hub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=khlsP-hub&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+</a>
 
 </div>
 
@@ -46,9 +50,17 @@
 
 ---
 
+### `$ ls ./activity`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=khlsP-hub&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+
+<br/>
+
+---
+
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=khlsP-hub&icon=6&color=1" alt="visitor count"/>
+![Profile Views](https://komarev.com/ghpvc/?username=khlsP-hub&style=flat-square&color=6E8EF7&label=profile+views)
 
 *thanks for stopping by.*
 
